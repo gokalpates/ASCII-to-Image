@@ -7,7 +7,7 @@ ImageManipulator::ImageManipulator():
 	gradient = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\" ^ `'. ";
 
 	std::cout << "NOTE: Try not to exceed 330 pixel height and 670 width for better results.\n";
-	std::cout << "If you have bigger screen dimensions, then you can go for bigger heights.\n\n";
+	std::cout << "If you have bigger screen dimensions, then you can go for bigger values.\n\n";
 
 	std::cout << "Enter a image file name to convert ascii art: ";
 	std::cin >> resourceFileName;
